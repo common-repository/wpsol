@@ -1,0 +1,215 @@
+# Copyright (C) 2014 wpSOL
+# This file is distributed under the same license as the wpSOL package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wpSOL 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpSOL\n"
+"POT-Creation-Date: 2022-12-26 00:00:00+00:00\n"
+"PO-Revision-Date: 2014-01-07 16:14+0200\n"
+"Last-Translator: Dennis Koot <koter84@gmail.com>\n"
+"Language-Team: Dennis Koot <koter84@gmail.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: common.php:42
+msgid "Login with your SOL account"
+msgstr "Log in met je SOL account"
+
+#: common.php:61
+msgid "Members-Area"
+msgstr "Voor Leden"
+
+#: common.php:66
+msgid "Write a Post"
+msgstr "Schrijf een Bericht"
+
+#: common.php:69
+msgid "Upload Media"
+msgstr "Upload Bestanden"
+
+#: common.php:71
+msgid "Log Out"
+msgstr "Uitloggen"
+
+#: common.php:103
+msgid "Show links when logged in: "
+msgstr "Laat links zien wanneer ingelogd: "
+
+#: common.php:161
+msgid ""
+"New user registrations through login.scouting.nl have been disabled for this "
+"site, please contact the site administrator if you feel this is incorrect"
+msgstr ""
+"Nieuwe gebruikersregistraties via login.scouting.nl zijn uitgeschakeld voor "
+"deze website, neem contact op met de sitebeheerder als u denkt dat dit "
+"onjuist is"
+
+#: common.php:161 common.php:183 common.php:189 common.php:245
+msgid "wpSOL Setup Instructions"
+msgstr "wpSOL Installatie Instructies"
+
+#: common.php:183
+msgid ""
+"wp-user-id based on username (%s) does not match wp-user-id based on email "
+"(%s)"
+msgstr ""
+"wp-user-id gebaseerd op username (%s) is niet gelijk aan wp-user-id "
+"gebaseerd op email (%s)"
+
+#: common.php:189
+msgid ""
+"Error 14: Something went wrong, please notify the site administrator [%s|%s|"
+"%s|%s]"
+msgstr ""
+"Fout 14: Er ging iets verkeerd, geef dit alstublieft door aan de "
+"sitebeheerder [%s|%s|%s|%s]"
+
+#: common.php:245
+msgid ""
+"The login was cancelled, either the user cancelled the request, or login."
+"scouting.nl isn't aware of your domain (%s)"
+msgstr ""
+"Het inloggen is geannuleerd, de gebruiker heeft geen toestemming gegeven, of "
+"je domein (%s) is niet bekend bij login.scouting.nl "
+
+#: common.php:250
+msgid "The login failed with openid-mode: \"%s\""
+msgstr "Het inloggen is mislukt met openid-mode: \"%s\""
+
+#: common.php:250
+msgid "wpSOL Support"
+msgstr "wpSOL Support"
+
+#: common.php:299
+msgid "Settings"
+msgstr "Instellingen"
+
+#: common.php:306
+msgid "wpSOL profile information"
+msgstr "wpSOL profiel informatie"
+
+#: common.php:313
+msgid "Birthdate"
+msgstr "Geboortedatum"
+
+#: common.php:324
+msgid "Gender"
+msgstr "Geslacht"
+
+#: common.php:335
+msgid "Scouting ID"
+msgstr "Scouting ID"
+
+#: common.php:350
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt onvoldoende rechten voor het bekijken van deze pagina."
+
+#: common.php:356
+msgid "Set display_name to: "
+msgstr "Stel display_name in op: "
+
+#: common.php:359
+msgid "Full name"
+msgstr "Volledige naam"
+
+#: common.php:360
+msgid "First name"
+msgstr "Voornaam"
+
+#: common.php:361
+msgid "Last name"
+msgstr "Achternaam"
+
+#: common.php:362
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: common.php:366
+msgid "Force display_name on each login: "
+msgstr "Forceer display_name bij elke login: "
+
+#: common.php:370
+msgid "Force first and last name on each login: "
+msgstr "Forceer voornaam en achternaam bij elke login: "
+
+#: common.php:374
+msgid "Store birthdate to local profile: "
+msgstr "Sla geboortedatum op in het lokale profiel: "
+
+#: common.php:378
+msgid "Store gender to local profile: "
+msgstr "Sla geslacht op in het lokale profiel: "
+
+#: common.php:382
+msgid "Store Scouting ID to local profile: "
+msgstr "Sla Scouting lid-nummer op in het lokale profiel: "
+
+#: common.php:386
+msgid "Automatically create new users: "
+msgstr "Automatisch nieuwe gebruikers aanmaken: "
+
+#: common.php:390
+msgid "Prefix for all Scouting Nederland users: "
+msgstr "Voorvoegsel voor alle Scouting Nederland users: "
+
+#: common.php:392
+msgid ""
+"By giving a prefix like sn_ you can easily identify which accounts are from "
+"Scouting Nederland"
+msgstr ""
+"Door een voorvoegsel in te stellen zoals sn_ kan je accounts van Scouting "
+"Nederland makkelijk terugvinden"
+
+#: common.php:395
+msgid "After a successful login redirect user to: "
+msgstr "Na een succesvolle login redirect naar: "
+
+#: common.php:398 common.php:407
+msgid "Default (no action)"
+msgstr "Standaard (geen actie)"
+
+#: common.php:399 common.php:408
+msgid "Frontpage"
+msgstr "Frontpage"
+
+#: common.php:400
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: common.php:404
+msgid "After logout redirect user to: "
+msgstr "Na uitloggen redirect naar: "
+
+#: common.php:430
+msgid "Settings Saved"
+msgstr "Instellingen Opgeslagen"
+
+#: common.php:437
+msgid "wpSOL [ScoutsOnLine] Settings"
+msgstr "wpSOL [ScoutsOnLine] Instellingen"
+
+#: common.php:484
+msgid "Save Changes"
+msgstr "Wijzigingen Opslaan"
+
+#. Plugin Name of the plugin/theme
+msgid "wpSOL"
+msgstr "wpSOL"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/koter84/wpSOL"
+msgstr "http://github.com/koter84/wpSOL"
+
+#. Description of the plugin/theme
+msgid "Connect WordPress to the Scouting Nederland OpenID Server"
+msgstr "Gebruik de Scouting Nederland OpenID Server met WordPress"
+
+#. Author of the plugin/theme
+msgid "Dennis Koot"
+msgstr "Dennis Koot"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/plugins/wpsol/"
+msgstr "http://wordpress.org/plugins/wpsol/"
